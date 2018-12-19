@@ -1,0 +1,4 @@
+1) git init
+2) git remote add origin "https://github.com/Atish-Kumar-Mohapatra/Atish-git.git"
+3) git pull origin master
+4) git status
