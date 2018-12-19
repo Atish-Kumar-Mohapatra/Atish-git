@@ -12,4 +12,5 @@
 12)	git checkout first_branch
 13)	ls
 14)	git merge first_branch
-15)	
+15)	git rebase first_branch
+16)	git am --show-current-patch
