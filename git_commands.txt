@@ -1,9 +1,12 @@
-1) git init
-2) git remote add origin "https://github.com/Atish-Kumar-Mohapatra/Atish-git.git"
-3) git pull origin master
-4) git status
-5) copy new file to the folder 
-6) git add -A
-7) git config user.name "Atish Mohapatra"
-8) git config user.email "atishpinku72@gmail.com"
-8) git commit -a -m "first commit"
+1)	git init
+2)	git remote add origin "https://github.com/Atish-Kumar-Mohapatra/Atish-git.git"
+3)	git pull origin master
+4)	git status
+5)	copy new file to the folder 
+6)	git add -A
+7)	git config user.name "Atish Mohapatra"
+8)	git config user.email "atishpinku72@gmail.com"
+9)	git commit -a -m "first commit"
+10)	git log
+11)	git branch first_branch
+12)	git checkout first_branch
