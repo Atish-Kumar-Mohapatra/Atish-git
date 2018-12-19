@@ -11,3 +11,4 @@
 11)	git branch first_branch
 12)	git checkout first_branch
 13)	ls
+14)	git merge first_branch
