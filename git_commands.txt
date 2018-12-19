@@ -10,3 +10,4 @@
 10)	git log
 11)	git branch first_branch
 12)	git checkout first_branch
+13)	ls
