@@ -15,3 +15,5 @@
 15)	git rebase first_branch
 16)	git am --show-current-patch
 17)	git rebase --continue
+18) ssh-keygen
+19)	ssh -T git@github.com
