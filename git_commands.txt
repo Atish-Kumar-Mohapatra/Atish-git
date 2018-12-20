@@ -14,3 +14,4 @@
 14)	git merge first_branch
 15)	git rebase first_branch
 16)	git am --show-current-patch
+17)	git rebase --continue
